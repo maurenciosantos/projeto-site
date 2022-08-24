@@ -14,10 +14,3 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 } 
-   #cx1{ position: absolute;
-          top: 300px;
-          left: auto;
-          height: 100px;
-          border: solid 2px;
-          background-color: aquamarine;
-   }
